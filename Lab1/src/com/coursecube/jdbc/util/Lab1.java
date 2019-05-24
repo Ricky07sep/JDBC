@@ -18,6 +18,7 @@ public class Lab1 {
 			System.out.println("Recorted is not inserted");
 		
 		}catch(Exception e) {
+			System.out.println();
 			e.printStackTrace();
 		}
 		finally {
